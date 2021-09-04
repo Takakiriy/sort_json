@@ -1,0 +1,8 @@
+node_modules
+**/.DS_Store
+
+**/*.backup
+**/*_changing.yml
+**/*_changing.yaml
+bin/chmod+x.command
+test/test_data.csv.yaml
